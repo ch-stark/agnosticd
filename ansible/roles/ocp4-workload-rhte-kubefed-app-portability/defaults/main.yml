@@ -17,7 +17,7 @@ _argocd_project_display: "ArgoCD Server"
 _argocd_server_deployment: "argocd-server"
 _argocd_default_user: "admin"
 _argocd_default_user_password: "r3dh4t1!"
-
+_argocd_version: "v1.3.6"
 _gogs_project: "gogs"
 _gogs_project_display: "Gogs Git Server"
 _gogs_server_deployment: "gogs"
